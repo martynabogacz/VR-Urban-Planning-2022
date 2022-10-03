@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# VR Urban Planning 2021
+# VR Urban Planning 2022
 
 Course 856011 VR Urban Planning
 
