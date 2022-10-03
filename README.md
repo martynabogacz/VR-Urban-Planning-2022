@@ -42,7 +42,7 @@ following:
 -   Rtools from
     [cran.r-project.org](https://cran.r-project.org/bin/windows/Rtools/rtools40.html).
     Download and install Rtools in your system. Then follow the steps in
-    the link to be able to use Rtols.
+    the link to be able to use Rtools.
 -   R packages, which can be installed by opening RStudio and typing
     `install.packages("dplyr")` in the R console, for example.
 
